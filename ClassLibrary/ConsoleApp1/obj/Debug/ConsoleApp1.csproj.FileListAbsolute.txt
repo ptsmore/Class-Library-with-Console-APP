@@ -1,0 +1,10 @@
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ConsoleApp1\bin\Debug\ClassLibrary.dll
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ConsoleApp1\bin\Debug\ClassLibrary.pdb
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,6 @@
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\phanuwat.FUSION\Source\Repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
